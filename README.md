@@ -1,4 +1,4 @@
-# 📊 Sales Data Analysis - Week 2
+# 📊 Workflow Insight Panel (Project Management) 
 
 ## 📌 Project Overview
 This project focuses on analyzing **sales data** to uncover insights regarding:
