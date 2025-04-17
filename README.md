@@ -81,16 +81,6 @@ python Project_week_2.py
 ```
 ---
 
-## 📢 Contributing
-Feel free to **fork this repository** and suggest improvements! 🚀
-
----
-
-## 📜 License
-This project is licensed under the **MIT License**.
-
----
-
 ## 🔗 Contact
 For any queries, reach out via **GitHub Issues** or email **ismaeel.sobhy@gmail.com** 📧.
 
