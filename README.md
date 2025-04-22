@@ -81,16 +81,18 @@ python Project_week_2.py
 ```
 ---
 
-## 🔗 Contact
-For any queries, reach out via **GitHub Issues** or email **ismaeel.sobhy@gmail.com** 📧.
-
----
 ## 🌐 Live Dashboard
 
 You can explore the interactive dashboard here:  
 👉 [View Dashboard](https://public.tableau.com/views/FinalProjectPerformanceInsightsBOSCH/PerformanceConflictInsightsBOSCH2?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 ---
+
+## 🔗 Contact
+For any queries, reach out via **GitHub Issues** or email **ismaeel.sobhy@gmail.com** 📧.
+
+---
+
 ### ✅ Next Steps
 - [ ] **Add Interactive Dashboards** using **Plotly**
 - [ ] **Automate Data Updates**
